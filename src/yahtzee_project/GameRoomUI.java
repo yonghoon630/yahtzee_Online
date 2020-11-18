@@ -18,6 +18,7 @@ public class GameRoomUI extends JFrame implements ActionListener {
 	Client client;
 	Room room;
 	
+	
 	JPanel diePanel;
 	JPanel scorePanel;
 	JButton rollBtn, diceBtn, scoreBtn;
