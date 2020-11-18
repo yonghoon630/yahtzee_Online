@@ -167,6 +167,7 @@ public class LoginUI extends JFrame implements Runnable {
 		ruleBtn.setBounds(350, 350, 50, 50);
 		panel.add(ruleBtn);		
 		
+		
 		JButton ipLabel = new JButton(new ImageIcon("img/iptext.png"));
 		ipLabel.setBorderPainted(false);
 		ipLabel.setContentAreaFilled(false);
