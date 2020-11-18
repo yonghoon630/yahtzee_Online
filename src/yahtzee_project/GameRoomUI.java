@@ -32,6 +32,7 @@ public class GameRoomUI extends JFrame implements ActionListener {
 		
 		init();
 	}
+	
 	private void init() {
 		
 		setBounds(150, 5, 660, 750);
