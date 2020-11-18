@@ -31,6 +31,7 @@ public class GameRoomUI extends JFrame implements ActionListener {
 		setTitle("Game : "+room.toProtocol());
 		
 		init();
+		
 	}
 	
 	private void init() {
